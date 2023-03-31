@@ -13,7 +13,7 @@
 
 :root {
   --background-image: url('https://i.imgur.com/HaluAG9.jpg');
-  --background-blur: 0px;
+  --background-blur: ２px;
   --background-darkness: 0.55;
   --popout-modal-image: url('https://i.imgur.com/2SLO1X9.jpg');
   --popout-modal-blur: 1px;
